@@ -37,4 +37,5 @@
 <br/>
 <br/>
 
+7. The polynomial $3x^2 - mx + 10$ leaves a remainder of $-2$ when divided by $x - 3$. Find the value of $m$.
 

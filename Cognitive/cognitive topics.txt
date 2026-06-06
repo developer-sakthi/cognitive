@@ -10,6 +10,9 @@ Aptitude :
 - Ratio and Proportion
 - HCF and LCM
 - Area and Volume
+- Profit and Loss
+- Geometry 
+
 
 
 Logical Reasoning : 

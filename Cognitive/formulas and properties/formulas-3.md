@@ -2,7 +2,6 @@
   <tr><th><b>Topics Covered</b></th></tr>
   <tr><td>Clock problems</td></tr>
   <tr><td>Profit and loss</td></tr>
-  <tr><td>Mensuration</td></tr>
   <tr><td>Partnership ( Profit sharing in buisness ) </td></tr>
 </table>
 

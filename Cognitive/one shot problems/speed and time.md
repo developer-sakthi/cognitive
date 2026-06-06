@@ -41,3 +41,13 @@
 
 8. Sneha is picked up by her father by car from college everyday. The college gets over at 4 p.m. daily. One day, the college got over an hour earlier than usual. Sneha started walking towards her house. Her father, unaware of this fact, leaves his house as usual, meets his daughter on the way, picks her up and they reach the house 15 minutes earlier than usual. What is the ratio of the father’s driving speed to Sneha’s walking
    speed?
+
+<br/>
+<br/>
+
+9. A police car starts chasing a fugitive in a BMW 3 hours after the BMV.t escapes from the
+   scene of crime at IOAM.The BMW drives for 10Km through the crowded roads of Shanghai
+   and then drives into a highway,where the traffic allows vehicles to move twice as fast.After a
+   while,the police car finally catches up with BMW after a chase that lasted 4 hours.By this
+   time the moon was up in the sky for 4 hours.tf the average speed of the police car is 83
+   kmph, then the average speed of the BMW is ?
