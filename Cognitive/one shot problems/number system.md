@@ -22,3 +22,19 @@
 
 <br/>
 <br/>
+
+5. What is the maximum number of times $\frac{8}{9}$ can be subracted from 8, so that the remainder is not less than 3
+
+<p align=center><b>ans : 4</b> </p>
+
+<br/>
+<br/>
+
+6. The kids Phalaa and Adhiphalaa (don't confuse them with Balaa and Adhibalaa, the abracadabra that sage Vishwamitra taught to Raama and Lakshmana to successfully defeat the demoness Taadaka) carry some fruits. Being tender and small, each could carry only a single-digit number of fruits. Adhiphalaa has three times as many fruits as Phalaa. If the digits corresponding to Phalaa's and Adhiphalaa's fruits are written in that order, the resulting two-digit number is a multiple of 3. How many fruits does Adhiphalaa have?
+
+<p align=center><b>ans : </b> </p>
+
+<br/>
+<br/>
+
+
