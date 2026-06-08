@@ -11,3 +11,6 @@
 > **ans**: 80
 
 3. The average weight of 6 women is increased by 9 kg, when one of them whose weight is 80 kg is replaced by another women. What is the weight of the new women (in kg)?
+
+
+4. Problems on calculating mode , median of continuous data

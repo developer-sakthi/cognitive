@@ -20,3 +20,5 @@
 <br/>
 <br/>
 
+4. A certain sum (in Rs) is divided between A, B, C and D such that the ratio of shares of
+   A and B is 3:4 ,that of B and C is 1:2 and that of C and D is 4:3. If the share of C is Rs.1880 more than the share of B, the share of D is:

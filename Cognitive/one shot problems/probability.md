@@ -9,3 +9,12 @@
 
 <br/>
 <br/>
+
+2. Two people Ranbir and Katrina decide to meet at a beach between 1 pm
+   to 2 pm, given that both will surely turn up once in the given time frame. If
+   Ranbir arrives, he waits for 15 minutes and then leaves feeling betrayed and
+   similarly Katrina waits for 15 minutes after she arrives. So what's the probability
+   that they meet?
+
+<br/>
+<br/>
