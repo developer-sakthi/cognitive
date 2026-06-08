@@ -3,35 +3,58 @@
 Aptitude : 
 
 - Number System 
-- Time and Distance 
+- Divisibility 
+- HCF and LCM
+- Numbers and Fractions
+- Speed Time and Distance 
 - Time and Work 
 - Boats and Streams 
 - Problems on Trains 
 - Percentages
 - Averages
 - Ratio and Proportion
-- HCF and LCM
 - Area and Volume
 - Profit and Loss
 - Geometry 
-
+- Mensuration
+- Statistics 
+- Allegations And Mixtures
+- Equations 
+- Simplifcation and Approximation
+- Series And Progressions
+- Data interpretation 
+- Clocks and Calenders 
+- Probability
 
 
 Logical Reasoning : 
 
-- Blood Relations
+- Word pattern
+- Syllogism 
+- Letter series
+- Number series 
+- figure patterns series
 - Coding-Decoding
-- Direction Sense
+- Blood Relations
+- Cube folding , paper cuts and folds
 - Seating Arrangements
-- folding paper cutting
-- figure patterns
+- Logical ven diagrams based 
+- Direction Sense
+- Statement and conclusion 
 - count the number of triangles in the given figure
-- folded into dice 
+- Visual Reasoning 
 
 
 
 
 Verbal Reasoning :
 
+- English Grammar
+    - Word Completion
+    - Sentence Completion
+    - Error Identification
+    - Arrangement
+    - Formal or Informal Sentences, Sentence Joining
+    - Meanings
 
-
+- Reading Comprehension
