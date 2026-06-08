@@ -1,0 +1,6 @@
+You have to prepare two aspects of SQL 
+	- Theory 
+	- writing query 
+
+
+for writing query follow : https://leetcode.com/problem-list/m8baczxh/
