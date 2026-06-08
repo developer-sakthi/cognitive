@@ -49,12 +49,11 @@ Logical Reasoning :
 
 Verbal Reasoning :
 
-- English Grammar
-    - Word Completion
-    - Sentence Completion
-    - Error Identification
-    - Arrangement
-    - Formal or Informal Sentences, Sentence Joining
-    - Meanings
-
+- Word Completion
+- Sentence Completion
+- Error Identification
+- Arrangement
+- Formal or Informal Sentences, Sentence Joining
+- Meanings
+- Parajumbles 
 - Reading Comprehension
